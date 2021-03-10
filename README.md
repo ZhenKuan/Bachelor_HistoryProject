@@ -5,7 +5,7 @@
 > This is the main project I am working on with my partners in college, we accomplished a self-propelled car that may automatic create unknown spaces' 2D map, and simultaneously detect the PM2.5 data according to different areas, furthermore, make priorly improvements against the worse air quality area. 
 >> I am mainly responsible for the tech of using the Rplidar, which is based on the SLAM technology, to create a 2D map in any unknown space.
 ## 2. [FPGA_Clock_Project](https://drive.google.com/file/d/1DF6MYyo6Qt-xA5MYnypatDZ69QQvUU0v/view?usp=sharing)
-> The link upon is the report, which contains the main code of the project. 
+> The link upon is the report, which contains the main code of the project using verilog. 
 ## 3. [Gyro_controlled_self-propelled_car](https://drive.google.com/file/d/15QZ_TeQ5waM1vnYl1dHeycSbmKgJCb3n/view?usp=sharing)
 ## 4. [Automatic_Parking_Project](https://drive.google.com/file/d/1O0W3-hL8coeywjIYgLPUuJGoiGfgPRE5/view?usp=sharing)
 > 3. and 4. is a small project my friend and I accomplised during space time.

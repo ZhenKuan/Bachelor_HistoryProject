@@ -16,3 +16,7 @@
 > What's more, due to the cooperation with the Symtek Automation Asia Coporation, we also have some experience using PLC to control the sensor.
 ## 7. [TheElectricPowerSavingProject](https://drive.google.com/file/d/1pzbCzqMfGy2QFAYBpwGXnjmrdycYk00L/view?usp=sharing)
 > The project is cooperatedd with I-Link Community Services Association( Taiwan), our mission is to find out methods in order to decrease the electricity bill of their office building. 
+
+## 8.[Development and Implementation of the HIWIN Robot Control System](https://drive.google.com/file/d/1t8H_dniN4J0CHcELzfC_xIM8N9IfUcdu/view?usp=sharing)
+> This is the project that I participate in with other foreign exchange students, who came from Japan, Indonesia, Philippines...etc. 
+
